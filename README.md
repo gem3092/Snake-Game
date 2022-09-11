@@ -1,2 +1,2 @@
-# hello-world
-My first repository on github
+# Snake Game
+A python powered game from Nokia
